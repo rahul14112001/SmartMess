@@ -1,15 +1,11 @@
-# Mess_Management
-
-This is Hackathon Project using MERN stack
-
-This Project has Won 3rd Price in Hackathon.
+# SmartMess
 
 To try it your self :
 
  you should have NodeJs installed, mongodb.
 
-- git clone <https://github.com/Jenil45/Mess_Management.git>
-- cd Mess_Management
+- git clone <https://github.com/rahul14112001/SmartMess>
+- cd SmartMess
 - should do both in any manner
 
 - | cd messmate | cd backend |
